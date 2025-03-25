@@ -9,8 +9,8 @@
 
 
 ## 运行环境
-**编程语言：C++**  
-**依赖库：VTK**  
+**编程语言：Python**  
+**依赖库：torch**  
 
 ## 运行效果
 <img src="https://github.com/alicema-creator/python-pytorch-palmprint-train-recogn/blob/main/screenshot/1.png" width="500"></a>
